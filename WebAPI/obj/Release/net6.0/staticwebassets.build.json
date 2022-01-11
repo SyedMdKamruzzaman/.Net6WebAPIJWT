@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AgQwaWkdGQhFlbeFkjkYsDp3sV8wMGxvvto4DEOoJQM=",
+  "Source": "IOTAPI",
+  "BasePath": "_content/IOTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

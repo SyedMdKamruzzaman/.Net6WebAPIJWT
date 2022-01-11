@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Deployment\IOTAPI</_PublishTargetUrl>
+    <History>True|2022-01-11T11:30:48.8769049Z;True|2022-01-11T17:20:42.4815491+06:00;True|2022-01-11T17:19:26.0123581+06:00;True|2022-01-11T17:18:39.1293176+06:00;True|2022-01-05T17:49:58.2957890+06:00;True|2022-01-05T17:21:01.7662449+06:00;True|2022-01-05T17:20:09.8416322+06:00;True|2022-01-05T16:38:12.5034675+06:00;True|2022-01-05T16:36:58.2819815+06:00;True|2022-01-05T16:33:55.9044992+06:00;False|2022-01-05T16:33:32.4961370+06:00;True|2022-01-05T16:32:20.6350413+06:00;True|2022-01-05T15:59:55.0640135+06:00;True|2022-01-05T15:52:57.7775356+06:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYMOmFG2obUWgqHGktFFqWwAAAAACAAAAAAAQZgAAAAEAACAAAACwFhK2NUpR9h2IH3c32IC1Bhbzh3nEXRWtwe7nL/tFiQAAAAAOgAAAAAIAACAAAAB7/OBxk9f/WCBA4qGxraMRgD2vbetxO8iryeWO/SIH7xAAAAB4aBudcEP9AyqPPE1ilnWFQAAAAMhy0wdBVUwF8DxPdykMDPgCjtUYn9em3Pmgp0vKFPmyvDuhuMs3KA1u62aTbqUFmRv/mu+77da60uo778p0U4I=</EncryptedPassword>
+  </PropertyGroup>
+</Project>
